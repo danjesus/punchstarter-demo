@@ -1,0 +1,19 @@
+{
+  "name": "punchstarter",
+  "authors": [
+    "Dan Jesus <danper.jesus@gmail.com>"
+  ],
+  "description": "Simple project to learn python",
+  "main": "manage.py",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "danjesus.github.io",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
